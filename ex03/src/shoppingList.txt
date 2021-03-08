@@ -1,6 +1,6 @@
-- Apples;
-- Oranges;
-- Bananas;
-- Cherries;
-- Carrots;
-- Strawberries;
+-Apples;
+-Oranges;
+-Bananas;
+-Cherries;
+-Carrots;
+-Strawberries;
