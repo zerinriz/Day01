@@ -3,3 +3,4 @@
 - Bananas;
 - Cherries;
 - Carrots;
+- Strawberries;
